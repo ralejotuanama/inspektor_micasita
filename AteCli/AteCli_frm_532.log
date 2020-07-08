@@ -1,0 +1,8 @@
+Línea 139: la clase Crystal.CrystalReport del control crp_Imprim no era una clase de control cargada.
+Línea 293: la clase EditLib.fpDoubleSingle del control ipp_ComVta no era una clase de control cargada.
+Línea 389: la clase EditLib.fpDoubleSingle del control ipp_ApoPro no era una clase de control cargada.
+Línea 485: la clase EditLib.fpLongInteger del control ipp_PlaAno no era una clase de control cargada.
+Línea 576: la clase EditLib.fpLongInteger del control ipp_PerGra no era una clase de control cargada.
+Línea 1114: la clase EditLib.fpDoubleSingle del control ipp_MtoAFP no era una clase de control cargada.
+Línea 1454: la clase EditLib.fpDoubleSingle del control ipp_ValEst no era una clase de control cargada.
+Línea 3028: la clase EditLib.fpDoubleSingle del control ipp_IngNet no era una clase de control cargada.
